@@ -18,6 +18,8 @@ As of the time of writing, transport control flows in either direction whereas b
 		############################################
 
 
+For extended use, be sure to update the default IP address in the .plist to your PIX/970's IP.
+
 
 
 Will Colding
